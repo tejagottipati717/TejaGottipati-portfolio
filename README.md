@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio website! Built to showcase my projects, skills, and journey as a developer.
 
-🔗 **Live Site:** [Visit Portfolio](https://tejagottipati717.github.io/TejaGottiapti-Portfolio)
+🔗 **Live Site:** https://tejagottipati.vercel.app/.
 
 ---
 
